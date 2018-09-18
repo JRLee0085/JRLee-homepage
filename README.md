@@ -1,4 +1,4 @@
-# JRLee-homepage
+# homepage
 ## **WELCOME TO MY HOMEPAGE.**
 
 Hello! I'm Li Jieran, a college student studying in College of Chemistry and Molecular Engineering.
